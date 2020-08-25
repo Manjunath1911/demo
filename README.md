@@ -1,7 +1,5 @@
-#Demo Git Repository
-This is the first file in the repo.
+#File
+Myfirst file
 
-##Ipsum Below 
-
-tfegeefhehfhfhheehfheahfhwhfihfhawifhh
-DADBBAJGAJGFEGFKHEKFJ
+#Command 
+Get 
