@@ -2,4 +2,4 @@
 Myfirst file
 
 #Command 
-Get 
+Get the Status
