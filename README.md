@@ -8,6 +8,8 @@ Get the Status
 New branch created.
 Test 2 for the branch.
 Test 3 for branch.
+<<<<<<< HEAD
 #check 
-Test4
-Lets check the test 5
+Test
+=======
+>>>>>>> d0dcdaa7b3995910608e756863ee37d8d0ad5ca6
